@@ -1,0 +1,19 @@
+body{
+    background-color:#111;
+    color:white;
+    font-family:Arial;
+    text-align:center;
+    }
+
+    header{
+    background-color:red;
+    padding:20px;
+    }
+
+    button{
+    background-color:green;
+    color:white;
+    padding:15px;
+    border:none;
+    font-size:18px;
+    }
